@@ -2,80 +2,80 @@
 
 ## Front-end,Back-end Full-Stack 채용공고(WEB)
 
-- NHN 
-  - 주요업무
+- ***NHN*** 
+  - **주요업무**
     - 웹 서비스 및 플랫폼 비즈니스 개발과 운영
-  - 자격요건
+  - **자격요건**
     - Java를 이용한 프로그래밍 경험 3년이상
     - Spring 이용한 개발 경험 2년이상
     - javascript 사용 가능자
-  - 우대사항
+  - **우대사항**
     - RESTful API 설계 경험자
     - Vue.js 등 프론트 기술 능숙자
     - 새로운 기술을 익히는데 열정적이고 적극적이고 팀원에게 공유 하시는분
 - 자란다
-  - 주요업무
+  - **주요업무**
     - 개인(부모님 유·아동)에게 맞는 돌봄 및 수업을 제공하기 위한 웹 서비스 개발
     - 자란상점 웹 서비스 개발
     - 하이브리드 앱 개발
-  - 자격요건
+  - **자격요건**
     - Angular,React,Vue.js 등 한 가지 이상의 javascript 프레임 워크 or 라이브러리 3년 이상 개발 경력
     - TypeScript를 이용한 개발 경험
-  - 우대사항
+  - **우대사항**
     - RxJS, Redux, MobX 또는 이와 유사한 client-side state management 경험이 있으신 분
     - 크로스브라우징, 웹 표준, 웹 접근성에 대한 이해와 경험이 있으신 분
     - JavaScript 에 대한 이해가 있으신 분
     - REST API 클라이언트 개발 경험이 있으신 분
 - 요기요
-  - 주요업무
+  - **주요업무**
     - 주위 동료들에게 개발 / 도메인 경험 및 노하우 공유
     - Open API 기반 서버 시스템의 개발 및 유지보수/운영
     - Cross-functional team의 일원으로 서비스의 기획부터 출시, 운영까지 전 과정 참여
     - 연동하는 시스템과의 데이터 형식 전환 모듈 작성 및 이를 이용한 작업
     - 대용량 서비스에 적합한 서버 아키텍처 구현/개발
-  - 자격 조건
+  - **자격 조건**
     - 고가용, 확장 가능한 시스템 아키텍쳐 설계 및 개발 능력
     - Python, Java, Ruby, Node.js 등을 사용한 6년 이상의 개발 경력 또는 그에 준하는 실력
     - Web framework (Django, FastAPI, Spring, Rails 등) 을 사용한 3년 이상의 웹 개발 경력 또는 그에 준하는 실력
-  - 우대사항
+  - **우대사항**
     - 데이터베이스(RDBMS 또는 NoSQL,NewSQL)에 대한 깊은 이해
     - 대용량 분산 인프라 설계, 운영 경험(Kafka, CDC등)
     - 컨테이너 기반 서비스 개발 및 운영 경험
-  - 기술 스택
+  - **기술 스택**
     - Django
     - Python
 - 버즈니
-  - 주요업무
+  - **주요업무**
     - 신규 커머스 서비스를 만드는데 필요한 모든 백엔드 업무를 A-Z 까지 하게 됩니다.
     - 주문/결제 등 커머스 백엔드는 버즈니 커머스 플랫폼 팀의 기능을 함께 사용합니다.
     - 함께 일을 하게 되면 향후 혼자서 앱 개발과 출시 및 운영 까지 할 수 있는 일당백 백엔드 개발자로 더욱 성장하실 수 있습니다.
-  - 자격 조건
+  - **자격 조건**
     - 관련 업무 2년 이상 있으신 분
     - 어떤 기술적 어려움이 있더라도 해결해 나갈 자신이 있는 분
     - 빠른 개발 속도와 품질 좋은 코드를 동시에 만들어 나갈 분
     - 빠른 러닝 커브를 가지고 있고, 새로운 기술 학습 및 도입에 거리낌 없으신 분
-  - 기술 스택
+  - **기술 스택**
     - Python
     - k8s
     - AWS
     - elasticsearch
     - postgresql
     - mongodb
-  - 우대사항
+  - **우대사항**
     - TDD 기반으로 개발을 하고 싶으신분
     - 코드리뷰를 하면서 서로 존중하면서 편하게 자유롭게 리뷰를 주고 받을 수 있는분
     - 오픈소스 코드를 자유롭게 수정하고 활용할 수 있는 능력이 있는 분
-- <span style=color:red>SSG</span>
-  - 주요 업무
+- <span style=color:red>***SSG***</span>
+  - **주요 업무**
     - 외부 제휴사(오픈마켓,셀러) API연동 개발
     - MSA 기반 시스템 설계 및 구조 개선
-  - 자격 요건
+  - **자격 요건**
     -  JAVA 개발 경력 만 5년 이상
     - Spring boot, MyBatis, JPA , querydsl개발 경력 만 3년 이상
     - RESTful API 개발 경력 보유
     - Oracle, postgreSQL 개발 경력 보유
     - MongoDB, Kafka, RabbitMq 를 이용한 개발 경험 
-  - 우대 조건
+  - **우대 조건**
     - MSA 기반 개발 / 설계 유경험자
     - 대용량 데이터 인터페이스 경험자
     - 쇼핑몰 연동 관련 업무 개발 및 운영 경험자
@@ -83,21 +83,21 @@
     - Git, Jira, Confluence 등 협업 도구 사용 가능
     - 단위 테스트, 통합 테스트 자동화 및 배포 자동화 경험자
 
-- 신세계 I&C
-  - 직무소개
+- ***신세계 I&C***
+  - **직무소개**
     - 교육시스템(LMS/CMS/관련홈페이지 등) 서버부문 개발 및 운영관리
     - 교육시스템 성능 개선 및 신규기능 개발
     - 유관 부서 및 협력사 시스템 연계개발 및 관리
-  - 기술요소
+  - **기술요소**
     - Java, Java Framework(Spring, Spring Boot, JPA)
     - RDBMS(Aurora PostgreSQL, Oracle) , NoSQL(Elasticsearch),
     - AWS Cloud(Amazon MQ, EKS 등)
-  - 필수요건
+  - **필수요건**
     - Java, Spring 기반 서버 개발 경험(5년 이상)
     - 모바일/웹 환경을 위한 Restful 기반의 서비스 API 설계/구현
     -  Oracle, PostgreSQL 또는 유사한 RDBMS 경험
     - Linux/Network 기반 지식
-  - 우대요건
+  - **우대요건**
     - 교육서비스 관련 개발 경험
     -  다양한 언어의 특성을 이해하고 사용한 경험
     - AWS 클라우드 활용 이벤트 기반 MSA 개발 경험
@@ -106,23 +106,23 @@
     - Kafka, RabbitMQ, Active MQ, Elasticsearch 등 주요 오픈소스 활용 개발 경험
 
 - 카카오엔터프라이즈
-  - 주요 업무
+  - **주요 업무**
     - End-To-End를 책임지는 신규 데이터 플랫폼 개발
     - Hadoop, Spark, S3, Druid, Kafka, Hive, Presto 등의 빅데이터 엔지니어링 기술을 클라우드 환경에 연동하는 서비스 개발
     - Spring, Java, Kotlin, Python 등을 이용한 API 개발 및 Kubernetes, Docker 기반의 배포
     - 빅데이터 ETL, Data Lake 구성을 개발
-  - 자격 조건
+  - **자격 조건**
     - CS 관련 기반 지식(자료구조, 알고리즘 등)
     - 웹서비스 혹은 분산처리/빅데이터 프레임워크에 대한 개발 및 운용 경험
     - 새로운 서비스 개발 및 문제 해결을 위한 적극적인 자세
-  - 우대 사항
+  - **우대 사항**
     - 빅데이터 아키텍처 설계 경험 혹은 3년이상의 빅데이터 프레임워크 개발/운용
     - Java/Kotlin & Spring Framework (Spring boot)를 이용한 대용량 트래픽 실서비스 경험
     - AI, 빅데이터, 분석 도메인에 대한 이해
     - Kubernetes, Docker등의 환경 경험
     - Elasticsearch, Solr 등 DB, 검색 기술에 대한 이해
 
-- 스마일게이트
+- ***스마일게이트***
   - **담당업무**
     - 데이터 플랫폼 개발
     -  Visualization, Analytics 솔루션 연계(API)
